@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding C# and C++
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Learing
-- 📫 How to reach me Microsoft devsin and netsoul
+- 📫 How to reach me Microsoft, DEVSINC and NETSOLE
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
