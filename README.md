@@ -1,35 +1,30 @@
-👋 Hi there, I'm Hassan Shah
-🔭 About Me
+Hi there 👋, I'm Hassan Shah
+🧭 About Me
 
-I'm a Full-Stack Developer and AI/Automation Enthusiast with strong experience in JavaScript, C++, Node.js, React, Tailwind, databases, and problem-solving using DSA.
-I enjoy building clean, fast, and scalable applications — whether it’s a modern frontend, a solid backend system, or automations that boost efficiency.
+I am a Full-Stack Developer and AI/Automation Enthusiast with strong experience in JavaScript, C++, Node.js, React, Tailwind, databases, and DSA problem-solving.
+I love building fast, clean, and scalable applications, whether it’s a modern UI, backend system, or automation that saves time and boosts productivity.
 
-💻 Tech Stack
-
-Frontend: HTML5 • CSS3 • Tailwind CSS • JavaScript • React
-Backend: Node.js • Express.js
-Programming: C++ • Python
-Tools & Others: Git • GitHub • REST APIs • SQL/Databases
-
+🧰 Tech Stack
+<p> <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" /> </p>
 🌱 Currently Learning
 
 🚀 Advanced JavaScript & Frontend Architecture
 
-🤖 AI Automations & ChatGPT-based tools
+🤖 AI Automations & ChatGPT-based Tools
 
-📱 React Native for mobile apps
+📱 React Native
 
-⚙️ DSA & problem-solving to strengthen logic
+⚙️ DSA to strengthen logic
 
 📫 How to Reach Me
 
 Email: hasan347484@gmail.com
 
-LinkedIn: www.linkedin.com/in/syed-hassan-hussain-shah-a3351b2b5
+LinkedIn: https://www.linkedin.com/in/syed-hassan-hussain-shah-a3351b2b5
 
 Portfolio: https://itshassandevx.vercel.app/
 
 💬 Fun Fact
 
-I love creating modern UI/UX experiences, optimizing logic through DSA, and building projects that feel smooth, fast, and enjoyable.
-Always exploring new technologies and improving every day!
+I love creating smooth and modern UI/UX, optimizing DSA-based logic, and building apps that feel fast and enjoyable.
+Always learning, always improving!
