@@ -41,7 +41,7 @@ I enjoy building **clean, fast, and scalable applications** — from modern fron
 
 - **Email:** hasan347484@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/syed-hassan-hussain-shah-a3351b2b5  
-- **Portfolio:** https://itshassandevx.vercel.app/
+- **Portfolio:** https://itxhassandevxx.vercel.app/
 
 ---
 
