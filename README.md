@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Hassan Shah**
 
-### Full-Stack Developer | AI & Automation Enthusiast
+### Full-Stack Developer | AI Enthusiast | UI/UX Designer
 
 I’m a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I enjoy working across the stack — from creating polished **React/Next.js interfaces** to developing robust **Node.js/Express backends**, designing databases, and integrating **AI-powered features and automation**.
 
