@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer | AI Enthusiast | UI/UX Designer
 
-I’m a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I enjoy working across the stack — from creating polished **React/Next.js interfaces** to developing robust **Node.js/Express backends**, designing databases, and integrating **AI-powered features and automation**.
+I’m a **Full-Stack Developer** who enjoys building modern, scalable, and user-friendly web applications. I work across the stack — from creating polished **React and Next.js interfaces** to developing backend APIs, working with databases, and integrating **AI-powered features and automation**.
 
-I also have a strong foundation in **C++ and DSA**, which helps me approach problems with a focus on efficient logic and clean solutions.
+I also have a strong foundation in **C++ and Data Structures & Algorithms (DSA)**, which helps me approach problems with efficient logic and practical solutions. Alongside development, I enjoy designing clean and intuitive **UI/UX experiences**.
 
 ---
 
@@ -23,14 +23,14 @@ I also have a strong foundation in **C++ and DSA**, which helps me approach prob
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Storage
@@ -47,7 +47,7 @@ I also have a strong foundation in **C++ and DSA**, which helps me approach prob
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Tools-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge" />
 </p>
 
@@ -71,12 +71,24 @@ I also have a strong foundation in **C++ and DSA**, which helps me approach prob
 * API Development
 * Full-Stack Application Architecture
 
+### 🎨 UI/UX & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+* UI/UX Design
+* Responsive Web Design
+* Design Systems
+* Wireframing & Prototyping
+* User-Centered Interfaces
+
 ### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
@@ -89,13 +101,13 @@ I also have a strong foundation in **C++ and DSA**, which helps me approach prob
 
 An AI-powered document editor and formatter designed to help university students create properly formatted academic documents.
 
-**Tech:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Sanity, NextAuth, TipTap
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Sanity, NextAuth.js, TipTap
 
 ### 🤖 Nexcruit
 
 An AI-powered recruitment and interview platform that helps organizations evaluate candidates while providing personalized feedback, skill-gap analysis, and market insights.
 
-**Tech:** Next.js, TypeScript, React, FastAPI, Python, PostgreSQL, AI/LLMs, WebSockets
+**Tech:** Next.js, React, TypeScript, FastAPI, Python, PostgreSQL, AI/LLMs, WebSockets
 
 ---
 
@@ -121,6 +133,6 @@ An AI-powered recruitment and interview platform that helps organizations evalua
 
 ## 💬 Fun Fact
 
-I enjoy turning ideas into **clean, modern, and functional applications**. Whether it's designing a smooth frontend, building a scalable backend, solving problems with DSA, or integrating AI into real-world products, I’m always looking for ways to build better and learn something new.
+I enjoy turning ideas into **clean, modern, and functional applications**. Whether it’s designing intuitive interfaces, building full-stack systems, solving problems with DSA, or integrating AI into real-world products, I’m always exploring new technologies and improving my skills.
 
 > **Code. Build. Learn. Improve. 🚀**
