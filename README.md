@@ -4,7 +4,7 @@
 
 ## 🧭 **About Me**
 
-I am a **Full-Stack Developer** and **AI/Automation Enthusiast** with strong experience in **JavaScript, C++, Node.js, React, Tailwind**, databases, and **DSA problem-solving**.  
+I am a **Full-Stack Developer** and **AI/Automation Enthusiast** with strong experience in **JavaScript, C++, Node.js, React, Next, Typescript, Java, Spring boot,  Tailwind**, databases, and **DSA problem-solving**.  
 I enjoy building **clean, fast, and scalable applications** — from modern frontend UIs to backend systems and automation tools that boost productivity.
 
 ---
